@@ -2,7 +2,7 @@
 import argparse
 import subprocess
 import sys
-import requests
+#import requests
 
 # Usage: ./get_input.py > 1.in
 # You must fill in SESSION following the instructions below.
