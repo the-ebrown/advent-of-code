@@ -15,7 +15,11 @@ import sys
 # 4) Click click
 # 5) Click cookies
 # 6) Grab the value for session. Fill it in.
-SESSION = '53616c7465645f5fded52ba2c4bf12638edf33ecda7614d536c872308941cd0a0761d7dbc7284c7a708025c40e3fd73b2deca25abb662dce8600449794d381e0'
+#github login 
+# SESSION = '53616c7465645f5fded52ba2c4bf12638edf33ecda7614d536c872308941cd0a0761d7dbc7284c7a708025c40e3fd73b2deca25abb662dce8600449794d381e0'
+
+#google login
+SESSION = '53616c7465645f5f0a46feb3b43909e35e47644548f5db0cfad3534d748b7b250e6a679982c639c64d97a76d31b583ba55a3da4e0b0f182dba881f8bb64829de'
 
 #useragent = 'https://github.com/the-ebrown/AdventOfCode/blob/main/get_input.py by evan.m.brown@gmail.com'
 parser = argparse.ArgumentParser(description='Read input')
