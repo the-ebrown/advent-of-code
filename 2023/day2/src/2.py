@@ -1,5 +1,5 @@
 # .././get_input.py --day 2 > 2.in
-# pypy 2.py 2.in
+# python3 2.py 2.in
 import sys
 from collections import defaultdict
 
@@ -53,6 +53,3 @@ for line in D.split('\n'):
 print('part 1: ' + str(p1))
 print('part 2: ' + str(p2))
     #print(id.split()[-1])
-    
-
-ans = 0
